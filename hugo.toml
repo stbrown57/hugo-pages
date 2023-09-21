@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'BFNet Docs'
+theme = 'hugo-whisper-theme'
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Docs"
+url = "/docs/"
+weight = 2
+
+[[menu.main]]
+name = "Cycling"
+url = "/Cycling/"
+weight = 3
